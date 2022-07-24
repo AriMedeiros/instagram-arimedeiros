@@ -4,7 +4,7 @@ Esse é o meu projeto Tela Inicial Instagram!
 
 ### Projeto utilizando:
 
-* Html
+* HTML5
 * CSS - FlexBox
 
 ## Obrigada! 
